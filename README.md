@@ -1,0 +1,2 @@
+# linux_system_administration_scripts
+Скрипты для системного администрирования Linux-систем

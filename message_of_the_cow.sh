@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# to use this funny script you have to install "cowsay", "fortune" and "fortunes-ru" first...
+fortune ru | cowsay

@@ -13,7 +13,7 @@ else
 fi
 # отправляем письмо на почту
 echo "Скриншот с сервера: $HOSTNAME" > $dirpath/message_body.txt
-mpack -s "Скриншот" -d $dirpath/message_body.txt $screenshot dark_strannik@mail.ru
+mpack -s "Скриншот" -d $dirpath/message_body.txt $screenshot your_login@mail.ru
 # удаляем скриншот
 rm -f $screenshot
 

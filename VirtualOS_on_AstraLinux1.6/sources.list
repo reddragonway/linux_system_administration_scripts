@@ -1,0 +1,3 @@
+deb http://ip-address/repo/smolensk/main smolensk main contrib non-free
+deb http://ip-address/repo/smolensk/devel smolensk main contrib non-free
+deb http://ip-address/repo/smolensk/update smolensk main contrib non-free
